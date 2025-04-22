@@ -17,4 +17,7 @@ if($query){
     Header("Location: index.php");
 }
 
+header("Location: index.php");
+exit();
+
 ?>
